@@ -237,7 +237,7 @@ Assignment 4
 
 * ##### 输出示例：
 
-* <img src="D:\cx\assignment4\picture\图片1.png" alt="图片1" style="zoom: 50%;" />
+* <img src="https://github.com/taoge-wjcs/assignment4/blob/main/picture/%E5%9B%BE%E7%89%871.png" />
 
 * 输出矩阵的计算结果是正确的，并且在程序中创建的三个matrix中的指针都在最后被成功回收，说明析构函数成功起到了作用。
 
